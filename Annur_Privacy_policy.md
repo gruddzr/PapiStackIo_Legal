@@ -44,7 +44,7 @@ You have full control over your data.
 - **Data Deletion**: You can "Wipe All Data" from the Settings menu to permanently delete all local logs.
 
 ## 6. Contact Us
-If you have any questions or suggestions about our Privacy Policy, please contact us at: **gruddzr@gmail.comr** 
+If you have any questions or suggestions about our Privacy Policy, please contact us at: **gruddzr@gmail.com** 
 
 *May this App be a source of clarity and ease for your worship.*
  Jazaakumullahu Khayran!
